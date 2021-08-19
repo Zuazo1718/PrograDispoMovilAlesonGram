@@ -3,4 +3,6 @@
     <string name="app_name">Alesongram</string>
     <string name="nombre_de_usuario">Sutiy</string>
     <string name="contrasena">llawi</string>
+    <string name="no_tienes_cuenta">"¿No tienes cuenta?, "</string>
+    <string name="crea_una_aqui">crea una aqui</string>
 </resources>

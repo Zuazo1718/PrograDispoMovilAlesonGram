@@ -1,6 +1,7 @@
 package com.zuazo.alesongram;
 
 import androidx.appcompat.app.AppCompatActivity;
+import android.view.View;
 
 import android.os.Bundle;
 
@@ -11,4 +12,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
     }
+     public void goCreateAccount(View view){
+         System.out.println("-------------> go to create account");
+     }
 }
